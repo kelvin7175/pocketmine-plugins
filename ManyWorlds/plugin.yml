@@ -19,10 +19,10 @@ permissions:
     default: true
     description: "Allow all the ManyWorlds functionality"
   mw.cmd.tp:
-    default: op
+    default:
     description: "Allows users to travel to other worlds"
   mw.cmd.tp.others:
-    default: op
+    default:
     description: "Allows users to make others travel to other worlds"
   mw.cmd.ls:
     default: op
